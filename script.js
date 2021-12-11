@@ -19,7 +19,7 @@ document.querySelector(`.check`).addEventListener(`click`, function() {
 });
 document.querySelector(`.again`).addEventListener(`click`, function() {
     document.querySelector(`.number`).textContent = `?`;
-    document.querySelector(`.guess`).value = ` `;
+    document.querySelector(`.guess`).value = ``;
     document.querySelector(`.message`).textContent = `start guessing...`;
     document.querySelector(`.score`).textContent = 20;
     document.querySelector(`body`).style.backgroundColor = `#222`;
