@@ -20,3 +20,5 @@ The game is two-person game called "Guess the Number". The first player thinks o
 # App Link
    
      Game Link: https://gandhamathanv.github.io/guess-a-number/
+     
+<a href="https://gandhamathanv.github.io/guess-a-number/">click here to play</a>
