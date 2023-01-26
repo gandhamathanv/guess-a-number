@@ -7,12 +7,12 @@ The game is two-person game called "Guess the Number". The first player thinks o
 
 # how to play 🎮
 
-  Enter the range of numbers you want the target number to be between, and press New Target
+  📍 Enter the range of numbers you want the target number to be between, and press New Target
 
-  Enter your guess
+  📍 Enter your guess
 
-  See if your guess is too high or too low
+  📍 See if your guess is too high or too low
 
-  Change your guess
+  📍 Change your guess
 
-  The app will tell you when you are right, and how many guesses you had
+  📍 The app will tell you when you are right, and how many guesses you had
