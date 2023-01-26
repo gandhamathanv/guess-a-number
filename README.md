@@ -31,6 +31,6 @@ The game is two-person game called "Guess the Number". The first player thinks o
 
 <img src="./samples/Screenshot 2023-01-26 at 10.28.15 PM.png" alt="sample 2" />
 
-<img src="./samples/Screenshot 2023-01-26 at 10.22.35 PM.png" alt="sample 3" />
+<img src="./samples/Screenshot 2023-01-26 at 10.28.35 PM.png" alt="sample 3" />
 
 <img src="./samples/Screenshot 2023-01-26 at 10.22.47 PM.png" alt="sample 4" />
