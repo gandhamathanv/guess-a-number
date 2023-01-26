@@ -16,3 +16,7 @@ The game is two-person game called "Guess the Number". The first player thinks o
   📍 Change your guess
 
   📍 The app will tell you when you are right, and how many guesses you had
+  
+# App Link
+   
+     Game Link: https://gandhamathanv.github.io/guess-a-number/
